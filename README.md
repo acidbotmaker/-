@@ -9,3 +9,14 @@
 - First submission which outputs the results in less than 10 mins will get bonus **200 points**.
 - Based on the timings, the scores will be given.
 - Total will be calculated of scores of all 5 tasks, highest will be the winner of this hackathon.
+
+- ### [Task 02](./task_02/)
+
+#### Instructions
+- Task created at: 19-06-2024 18:18
+- Last submission until: 20-06-2024 20:00
+- Languages: Not required
+
+#### Scoring 
+- Score will be no. of accounts identified
+- Total will be calculated of scores of all 5 tasks, highest will be the winner of this hackathon.
