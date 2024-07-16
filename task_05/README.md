@@ -12,7 +12,7 @@
 There are the following files JSON (JSON row in newline) in the datasets folder:
  - [mangas.json](./datasets/mangas.json)
  - [chapters.json](./datasets/chapters.json)
- - [search_histories.json](./datasets/search_histories.json) 
+ - [chapter_histories.json](./datasets/chapter_histories.json) 
  - [user_mangas.json](./datasets/user_mangas.json)
 
 Your task is to analyse the data provided in the files and estimate the following for each user:
