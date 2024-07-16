@@ -31,6 +31,8 @@ In output, you have to guesstimate the following:
 - Genres the user is interested in
 - Genres the user could be interested in (different from point 2)
 - Average Active Time during a week e.g., 
+
+```
     MON: 14:00-15:00, 20:00-21:00
     TUE: NONE
     WED: 09:00-10:00
@@ -38,6 +40,7 @@ In output, you have to guesstimate the following:
     FRI: 22:00-23:59
     SAT: 00:00-04:00, 18:00-21:00, 23:30-23:59
     SUN: 00:00-06:00, 22:00-23:59
+```
 
 ## Submission
 To submit your version of code follow the steps:
